@@ -1,11 +1,11 @@
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
 <h1 align="center">Flow SSO Server with Auth0</h1>
 
-<p align="center" <strong>SSO (Single Sign-On)</strong>  server sendiri dengan NestJS adalah proyek yang menarik karena memberikan kontrol penuh atas alur autentikasi perusahaan Anda. Untuk database, pilihan terbaik biasanya melibatkan kombinasi antara Database Relasional (untuk data user) dan In-Memory Database (untuk session/token).</p>
+<p align="center"><strong>SSO (Single Sign-On)</strong>  server sendiri dengan NestJS adalah proyek yang menarik karena memberikan kontrol penuh atas alur autentikasi perusahaan Anda. Untuk database, pilihan terbaik biasanya melibatkan kombinasi antara Database Relasional (untuk data user) dan In-Memory Database (untuk session/token).</p>
 
 ![flow auth](./flow%20auth0%20sso.png)
 
